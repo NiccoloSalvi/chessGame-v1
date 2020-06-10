@@ -1,0 +1,11 @@
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Debug\Scacchi.exe.config
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Debug\Scacchi.exe
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Debug\Scacchi.pdb
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\ChessGame.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.Scacchiera.resources
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.Properties.Resources.resources
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.Welcome.resources
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\ChessGame.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.exe
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.pdb

@@ -1,0 +1,14 @@
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Release\Scacchi.exe.config
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Release\Scacchi.exe.manifest
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Release\Scacchi.application
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Release\Scacchi.exe
+C:\Users\nicco\Desktop\Scacchi\Scacchi\bin\Release\Scacchi.pdb
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.Scacchiera.resources
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.Properties.Resources.resources
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.Welcome.resources
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.exe.manifest
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.application
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.exe
+C:\Users\nicco\Desktop\Scacchi\Scacchi\obj\Release\Scacchi.pdb
